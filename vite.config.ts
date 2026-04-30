@@ -7,7 +7,7 @@ export default defineConfig({
   resolve: {
     dedupe: ['react', 'react-dom'], // Forces Vite to use the same instance
   },
-   base: "/Store-Website/",
+   base: "Store-Website",
 
 })
 
